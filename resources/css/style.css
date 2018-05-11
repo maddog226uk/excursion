@@ -15,6 +15,10 @@ p {
   color: Gray;
 }
 
+.media {
+  padding-top: 30px;
+}
+
 .phone {
   padding-top: 40px;
 }
@@ -34,8 +38,4 @@ p {
 .footer {
   text-align: right;
   color: Gray;
-}
-
-.video {
-  padding-top: 40px;
 }
